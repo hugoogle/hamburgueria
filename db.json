@@ -12,5 +12,5 @@
   {"id": 2, "descricao": "Ciclano", "email": "ciclano@teste.com", "tel": "2222-2222" },
   {"id": 3, "descricao": "Lolo", "email": "lolo@teste.com", "tel": "1111-1111" },
   {"id": 4, "descricao": "Felicia", "email": "felicia@teste.com", "tel": "0000-0000"} 
-  ]  
+  ] 
 }
