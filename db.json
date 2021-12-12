@@ -6,6 +6,11 @@
   {"id": 4, "descricao": "chedar", "preco": "20,50"},
   {"id": 5, "descricao": "bacon", "preco": "32,60"},
   {"id": 6, "descricao": "family", "preco": "56,30"}
-]
-  
+],  
+  "contatos": [
+  {"id": 1, "nome": "Fulano", "email": "fulano@teste.com", "tel": "3333-3333"},
+  {"id": 2, "descricao": "Ciclano", "email": "ciclano@teste.com", "tel": "2222-2222" },
+  {"id": 3, "descricao": "Lolo", "email": "lolo@teste.com", "tel": "1111-1111" },
+  {"id": 4, "descricao": "Felicia", "email": "felicia@teste.com", "tel": "0000-0000"} 
+  ]  
 }
