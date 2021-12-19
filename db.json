@@ -8,9 +8,9 @@
   {"id": 6, "descricao": "family", "preco": "56,30"}
 ],  
   "contatos": [
-  {"id": 1, "nome": "Fulano", "sobrenome": "Ferreira" ,"email": "fulano@teste.com", "tel": "3333-3333", notificacao: true},
-  {"id": 2, "nome": "Ciclano", "sobrenome": "Silva" , "email": "ciclano@teste.com", "tel": "2222-2222", notificacao: true },
-  {"id": 3, "nome": "Lolo", "sobrenome": "Gama" , "email": "lolo@teste.com", "tel": "1111-1111", notificacao: true },
-  {"id": 4, "nome": "Felicia", "sobrenome": "Vieira" , "email": "felicia@teste.com", "tel": "0000-0000", notificacao: true} 
+  {"id": 1, "nome": "Fulano", "sobrenome": "Ferreira" ,"email": "fulano@teste.com", "tel": "3333-3333", "notificacao": true},
+  {"id": 2, "nome": "Ciclano", "sobrenome": "Silva" , "email": "ciclano@teste.com", "tel": "2222-2222", "notificacao": true },
+  {"id": 3, "nome": "Lolo", "sobrenome": "Gama" , "email": "lolo@teste.com", "tel": "1111-1111", "notificacao": true },
+  {"id": 4, "nome": "Felicia", "sobrenome": "Vieira" , "email": "felicia@teste.com", "tel": "0000-0000", "notificacao": true} 
   ] 
 }
