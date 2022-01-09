@@ -1,7 +1,7 @@
 {
   "user":[
      {"id": 1, "nome": "Hugo", "sobreNome": "Ferreira", "idade": 38},
-      {"id": 2, "nome": "Lolo", "sobreNome": "Ferreira"}, "idade": 9}
+      {"id": 2, "nome": "Lolo", "sobreNome": "Ferreira", "idade": 9}
   ],
   
   
