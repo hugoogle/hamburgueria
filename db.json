@@ -1,4 +1,10 @@
 {
+  "user":[
+     {"id": 1, "nome": "Hugo", "sobreNome": "Ferreira", "idade": 38},
+      {"id": 2, "nome": "Lolo", "sobreNome": "Ferreira"}, "idade": 9}
+  ],
+  
+  
 "precos":[
   {"id": 1, "descricao": "chicken", "preco": "23,90"},
   {"id": 2, "descricao": "combo", "preco": "32,70"},
