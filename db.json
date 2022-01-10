@@ -22,6 +22,6 @@
   {"id": 5, "nome": "Bluesoft", "sobrenome": "Empresa" , "email": "bluesoft@teste.com", "tel": "0000-0000", "notificacao": true },  
   {"id": 6, "nome": "Beto", "sobrenome": "Ferreira" , "email": "beto@teste.com", "tel": "0000-0000", "notificacao": true } 
 ]
-  ]
+  
 
 }
