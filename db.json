@@ -6,7 +6,7 @@
       {"id": 3, "nome": "Beto", "sobreNome": "Ferreira", "idade": 39}
   ],
   
-""preco"s":[
+"precos":[
   {"id": 1, ""descricao"": "chicken", ""preco"": "23,90"},
   {"id": 2, ""descricao"": "combo", ""preco"": "32,70"},
   {"id": 3, ""descricao"": "cebola-roxa", ""preco"": "19,90"},
