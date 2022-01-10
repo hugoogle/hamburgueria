@@ -6,13 +6,13 @@
       {"id": 3, "nome": "Beto", "sobreNome": "Ferreira", "idade": 39}
   ],
   
-"precos":[
-  {"id": 1, "descricao": "chicken", "preco": "23,90"},
-  {"id": 2, "descricao": "combo", "preco": "32,70"},
-  {"id": 3, "descricao": "cebola-roxa", "preco": "19,90"},
-  {"id": 4, "descricao": "chedar", "preco": "20,50"},
-  {"id": 5, "descricao": "bacon", "preco": "32,60"},
-  {"id": 6, "descricao": "family", "preco": "56,30"}
+""preco"s":[
+  {"id": 1, ""descricao"": "chicken", ""preco"": "23,90"},
+  {"id": 2, ""descricao"": "combo", ""preco"": "32,70"},
+  {"id": 3, ""descricao"": "cebola-roxa", ""preco"": "19,90"},
+  {"id": 4, ""descricao"": "chedar", ""preco"": "20,50"},
+  {"id": 5, ""descricao"": "bacon", ""preco"": "32,60"},
+  {"id": 6, ""descricao"": "family", ""preco"": "56,30"}
 ],  
   "contatos": [
   {"id": 1, "nome": "Fulano", "sobrenome": "Ferreira" ,"email": "fulano@teste.com", "tel": "3333-3333", "notificacao": true },
@@ -24,59 +24,53 @@
 ], 
    "produtos": [
   {
-    imagem: "./imagens/produtos/arroz.jpg",
-    descricao: "Arroz",
-    preco: "20.00",
-    departamento: "mercearia",
+    "imagem": "./imagens/produtos/arroz.jpg",
+    "descricao": "Arroz",
+    "preco": "20.00",
+    "departamento": "mercearia",
   },
   {
-    imagem: "./imagens/produtos/coca-cola.jpg",
-    descricao: "Coca-cola",
-    preco: "12.00",
-    departamento: "bebidas",
+    "imagem": "./imagens/produtos/coca-cola.jpg",
+    "descricao": "Coca-cola",
+    "preco": "12.00",
+    "departamento": "bebidas",
   },
   {
-    imagem: "./imagens/produtos/cream-cracker.jpeg",
-    descricao: "Cream-cracker",
-    preco: "7.50",
-    departamento: "mercearia",
+    "imagem": "./imagens/produtos/cream-cracker.jpeg",
+    "descricao": "Cream-cracker",
+    "preco": "7.50",
+    "departamento": "mercearia",
   },
   {
-    imagem: "./imagens/produtos/frutas.jpeg",
-    descricao: "Frutas",
-    preco: "3.99",
-    departamento: "hortifruti",
+    "imagem": "./imagens/produtos/frutas.jpeg",
+    "descricao": "Frutas",
+    "preco": "3.99",
+    "departamento": "hortifruti",
   },
   {
-    imagem: "./imagens/produtos/mems.jpg",
-    descricao: "Mms",
-    preco: "10.00",
-    departamento: "mercearia",
+    "imagem": "./imagens/produtos/mems.jpg",
+    "descricao": "Mms",
+    "preco": "10.00",
+    "departamento": "mercearia",
   },
   {
-    imagem: "./imagens/produtos/rosquinha-coco.jpg",
-    descricao: "Roquinha coco",
-    preco: "8.65",
-    departamento: "mercearia",
+    "imagem": "./imagens/produtos/rosquinha-coco.jpg",
+    "descricao": "Roquinha coco",
+    "preco": "8.65",
+    "departamento": "mercearia",
   },
   {
-    imagem: "./imagens/produtos/sadia-lasanha-frango.jpg",
-    descricao: "Sadia lasanha frango",
-    preco: "14.80",
-    departamento: "congelados",
+    "imagem": "./imagens/produtos/sadia-lasanha-frango.jpg",
+    "descricao": "Sadia lasanha frango",
+    "preco": "14.80",
+    "departamento": "congelados",
   },
   {
-    imagem: "./imagens/produtos/vinhos.jpeg",
-    descricao: "Vinhos",
-    preco: "72.00",
-    departamento: "bebidas",
+    "imagem": "./imagens/produtos/vinhos.jpeg",
+    "descricao": "Vinhos",
+    "preco": "72.00",
+    "departamento": "bebidas",
   },
 ]
 
 }
-
-
-
-
-
-
