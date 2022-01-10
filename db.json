@@ -1,29 +1,106 @@
 {
-  
-  "user":[
-     {"id": 1, "nome": "Hugo", "sobreNome": "Ferreira", "idade": 38},
-      {"id": 2, "nome": "Lolo", "sobreNome": "Ferreira", "idade": 9},
-      {"id": 3, "nome": "Beto", "sobreNome": "Ferreira", "idade": 39}
+  "user": [
+    {
+      "id": 1,
+      "nome": "Hugo",
+      "sobreNome": "Ferreira",
+      "idade": 38
+    },
+    {
+      "id": 2,
+      "nome": "Lolo",
+      "sobreNome": "Ferreira",
+      "idade": 9
+    },
+    {
+      "id": 3,
+      "nome": "Beto",
+      "sobreNome": "Ferreira",
+      "idade": 39
+    }
   ],
-  
-"precos":[
-  {"id": 1, "descricao": "chicken", "preco": "23,90"},
-  {"id": 2, "descricao": "combo", "preco": "32,70"},
-  {"id": 3, "descricao": "cebola-roxa", "preco": "19,90"},
-  {"id": 4, "descricao": "chedar", "preco": "20,50"},
-  {"id": 5, "descricao": "bacon", "preco": "32,60"},
-  {"id": 6, "descricao": "family", "preco": "56,30"}
-],  
+  "precos": [
+    {
+      "id": 1,
+      "descricao": "chicken",
+      "preco": "23,90"
+    },
+    {
+      "id": 2,
+      "descricao": "combo",
+      "preco": "32,70"
+    },
+    {
+      "id": 3,
+      "descricao": "cebola-roxa",
+      "preco": "19,90"
+    },
+    {
+      "id": 4,
+      "descricao": "chedar",
+      "preco": "20,50"
+    },
+    {
+      "id": 5,
+      "descricao": "bacon",
+      "preco": "32,60"
+    },
+    {
+      "id": 6,
+      "descricao": "family",
+      "preco": "56,30"
+    }
+  ],
   "contatos": [
-  {"id": 1, "nome": "Fulano", "sobrenome": "Ferreira" ,"email": "fulano@teste.com", "tel": "3333-3333", "notificacao": true },
-  {"id": 2, "nome": "Ciclano", "sobrenome": "Silva" , "email": "ciclano@teste.com", "tel": "2222-2222", "notificacao": true },
-  {"id": 3, "nome": "Lolo", "sobrenome": "Gama" , "email": "lolo@teste.com", "tel": "1111-1111", "notificacao": false },
-  {"id": 4, "nome": "Felicia", "sobrenome": "Vieira" , "email": "felicia@teste.com", "tel": "0000-0000", "notificacao": false },
-  {"id": 5, "nome": "Bluesoft", "sobrenome": "Empresa" , "email": "bluesoft@teste.com", "tel": "0000-0000", "notificacao": true },  
-  {"id": 6, "nome": "Beto", "sobrenome": "Ferreira" , "email": "beto@teste.com", "tel": "0000-0000", "notificacao": true } 
-],
-  
-  
+    {
+      "id": 1,
+      "nome": "Fulano",
+      "sobrenome": "Ferreira",
+      "email": "fulano@teste.com",
+      "tel": "3333-3333",
+      "notificacao": true
+    },
+    {
+      "id": 2,
+      "nome": "Ciclano",
+      "sobrenome": "Silva",
+      "email": "ciclano@teste.com",
+      "tel": "2222-2222",
+      "notificacao": true
+    },
+    {
+      "id": 3,
+      "nome": "Lolo",
+      "sobrenome": "Gama",
+      "email": "lolo@teste.com",
+      "tel": "1111-1111",
+      "notificacao": false
+    },
+    {
+      "id": 4,
+      "nome": "Felicia",
+      "sobrenome": "Vieira",
+      "email": "felicia@teste.com",
+      "tel": "0000-0000",
+      "notificacao": false
+    },
+    {
+      "id": 5,
+      "nome": "Bluesoft",
+      "sobrenome": "Empresa",
+      "email": "bluesoft@teste.com",
+      "tel": "0000-0000",
+      "notificacao": true
+    },
+    {
+      "id": 6,
+      "nome": "Beto",
+      "sobrenome": "Ferreira",
+      "email": "beto@teste.com",
+      "tel": "0000-0000",
+      "notificacao": true
+    }
+  ],
   "produtos": [
     {
       "imagem": "./imagens/produtos/arroz.jpg",
@@ -74,6 +151,4 @@
       "departamento": "bebidas"
     }
   ]
-  
-
 }
