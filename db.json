@@ -103,13 +103,13 @@
   ],
   "produtos": [
     {
-      "imagem": "https://github.com/hugoogle/desafios/blob/main/imagens/produtos/arroz.jpg",
+      "imagem": "https://photos.google.com/album/AF1QipNMTn2Ii_qnjNYmbOOy9s7wQXEQ4UAxFH0YIwoI/photo/AF1QipM4M9kiUPH5WWzeNuZ0PL2srDbGC1SrFXXr0yfE",
       "descricao": "Arroz",
       "preco": "20.00",
       "departamento": "mercearia"
     },
     {
-      "imagem": "./imagens/produtos/coca-cola.jpg",
+      "imagem": "https://photos.google.com/album/AF1QipNMTn2Ii_qnjNYmbOOy9s7wQXEQ4UAxFH0YIwoI/photo/AF1QipMlGLK_tUR0JXJOSbfYDC3WNoheCGTV2Ev2OngM",
       "descricao": "Coca-cola",
       "preco": "12.00",
       "departamento": "bebidas"
