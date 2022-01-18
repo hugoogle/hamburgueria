@@ -103,7 +103,7 @@
   ],
   "produtos": [
     {
-      "imagem": "./imagens/produtos/arroz.jpg",
+      "imagem": "https://github.com/hugoogle/desafios/blob/main/imagens/produtos/arroz.jpg",
       "descricao": "Arroz",
       "preco": "20.00",
       "departamento": "mercearia"
