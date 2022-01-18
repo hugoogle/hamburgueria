@@ -109,43 +109,43 @@
       "departamento": "mercearia"
     },
     {
-      "imagem": "https://photos.google.com/album/AF1QipNMTn2Ii_qnjNYmbOOy9s7wQXEQ4UAxFH0YIwoI/photo/AF1QipMlGLK_tUR0JXJOSbfYDC3WNoheCGTV2Ev2OngM",
+      "imagem": "https://i.ibb.co/cLFMRkm/coca-cola.jpg",
       "descricao": "Coca-cola",
       "preco": "12.00",
       "departamento": "bebidas"
     },
     {
-      "imagem": "./imagens/produtos/cream-cracker.jpeg",
+      "imagem": "https://i.ibb.co/R0n31jt/cream-cracker.jpg",
       "descricao": "Cream-cracker",
       "preco": "7.50",
       "departamento": "mercearia"
     },
     {
-      "imagem": "./imagens/produtos/frutas.jpeg",
+      "imagem": "https://i.ibb.co/ryGXgP3/frutas.jpg",
       "descricao": "Frutas",
       "preco": "3.99",
       "departamento": "hortifruti"
     },
     {
-      "imagem": "./imagens/produtos/mems.jpg",
+      "imagem": "https://i.ibb.co/f15H7Qw/mems.jpg",
       "descricao": "Mms",
       "preco": "10.00",
       "departamento": "mercearia"
     },
     {
-      "imagem": "./imagens/produtos/rosquinha-coco.jpg",
+      "imagem": "https://i.ibb.co/NZ067jp/rosquinha-coco.jpg",
       "descricao": "Roquinha coco",
       "preco": "8.65",
       "departamento": "mercearia"
     },
     {
-      "imagem": "./imagens/produtos/sadia-lasanha-frango.jpg",
+      "imagem": "https://i.ibb.co/zZXhLJ0/sadia-lasanha-frango.jpg",
       "descricao": "Sadia lasanha frango",
       "preco": "14.80",
       "departamento": "congelados"
     },
     {
-      "imagem": "./imagens/produtos/vinhos.jpeg",
+      "imagem": "https://i.ibb.co/LQSbwdk/vinhos.jpg",
       "descricao": "Vinhos",
       "preco": "72.00",
       "departamento": "bebidas"
